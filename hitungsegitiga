@@ -1,0 +1,10 @@
+#nama : irsan
+#kelas informasi B 
+#nim 
+
+alas_segitiga = int(input(
+    "masukkan alas segitiga :"))
+tinggi_segitiga = int(input(
+    "masukkan tinggi segitiga :"))
+luas = alas_segitiga + tinggi_segitiga
+print(f"alas : {alas_segitiga} x {tinggi_segitiga} : {luas}")
